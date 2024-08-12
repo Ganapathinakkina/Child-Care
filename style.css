@@ -1778,3 +1778,16 @@ a {
         font-size: 12px;
     }
 }
+
+
+
+.popup{
+    width: 50%;
+    height: 50vh;
+    background-color: #AC94F1;
+    position: absolute;
+    left: 25%;
+    top: 30vh;
+    padding: 20px;
+    
+}
